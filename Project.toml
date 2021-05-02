@@ -1,0 +1,9 @@
+name = "WHED"
+uuid = "ab10e779-960c-43bf-9900-a4190cfa3dc9"
+authors = ["José Bayoán Santiago Calderón <jbs3hp@virginia.edu>"]
+version = "0.1.0"
+
+[deps]
+Cascadia = "54eefc05-d75b-58de-a785-1a3403f0919f"
+LibPQ = "194296ae-ab2e-5f79-8cd4-7183a0a5a0d1"
+WebDriver = "05625dda-b54a-434a-8c43-5c7937dfa4f0"
